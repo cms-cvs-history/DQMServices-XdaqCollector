@@ -5,11 +5,10 @@
 <use name=EventFilter/Utilities>
 <use name=xdaq>
 <export>
-  <use name=DQMServices/Components>
-  <use name=DQMServices/Core>
-  <use name=DQMServices/CoreROOT>
-  <use name=DQMServices/UI>
-  <use name=xdaq>
-  <lib name=DQMServicesXdaqCollector>
+<use name=DQMServices/Components>
+<use name=DQMServices/Core>
+<use name=DQMServices/CoreROOT>
+<use name=DQMServices/UI>
+<use name=xdaq>
+ <lib name=DQMServicesXdaqCollector>
 </export>
-
